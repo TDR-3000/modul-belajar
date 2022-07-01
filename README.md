@@ -4,7 +4,7 @@
 	git init
 	git remote add origin https://github.com/alfianyulianto/modul-belajar.git
 	git pull origin master
-# menambah folder / file
+# upload folder / file
 	git init 
 	git add .
 	git commit -m "initial commit"
