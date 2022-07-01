@@ -1,7 +1,11 @@
 # modul-belajar
 	Materi-materi belajar web development
-# intalation
+# instalation
 	git init
 	git remote add origin https://github.com/alfianyulianto/modul-belajar.git
 	git pull origin master
-
+# menambah folder / file
+	git init 
+	git add .
+	git commit -m "initial commit"
+	git push -u origin master
