@@ -1,0 +1,24 @@
+## cheatsheet
+1. htmlcheatsheet.com - html, css, js, jquery, amp, seo
+2. devdocs.io - html, css, js, jquery, ci, laravel, bootstrap, nodejs, angularjs, viewjs, reactjs, nextjs, drupal, dll
+3. devhints.io
+
+## image
+1. https://unsplash.com/
+2. https://www.pexels.com/
+3. https://www.pexels.com/
+
+## icon ilustration
+1. https://iconscout.com/
+2. https://undraw.co/
+3. https://www.freepik.com/
+
+## colors
+1. https://coolors.co/
+2. https://colorhunt.co/
+
+## remove background
+1. https://www.remove.bg/
+
+## UML
+1. https://www.remove.bg/ - draw io
